@@ -1,0 +1,2 @@
+mouse
+-DCATKIN_DEVEL_PREFIX=/home/cona/tm_gui/devel -DCMAKE_INSTALL_PREFIX=/home/cona/tm_gui/install -G Unix Makefiles

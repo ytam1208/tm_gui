@@ -1,0 +1,8 @@
+prefix=/home/cona/tm_gui/devel
+
+Name: mouse
+Description: Description of mouse
+Version: 0.0.0
+Cflags: -I/home/cona/tm_gui/src/mouse/include
+Libs: -L${prefix}/lib -lmouse
+Requires: roscpp
